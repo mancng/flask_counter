@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    color: blue;
+}
+
+h3{
+    color: green;
+    margin-top: 20px;
+}
+
+#container{
+    display: table;
+    margin: 0 auto;
+}
+
+#wrapper{
+    border: 1px solid black;
+    margin-top: 80px;
+    text-align: center;
+    padding: 20px;
+}
+
+button{
+    padding: 5px;
+    margin-top: 30px;
+}
